@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ecommerce-docs": {
+      "command": "/Users/slaghuis/code/services/yc-platform-mcp/bin/yc-platform-mcp",
+      "env": {
+        "OPENAPI_SPEC_PATH": "/Users/slaghuis/code/services/yc-platform-mcp/specs"
+      }
+    }
+  }
+}
